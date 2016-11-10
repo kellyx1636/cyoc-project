@@ -1,4 +1,4 @@
-Which profession interests you the most in terms of technology careers?    
-A) Computer Science    
-B) Computer Engineering    
-C) Software Engineering    
+Which technology profession interests you the most?    
+A) [Computer Science](../../technology/computer-science)    
+B) [Computer Engineering](../../technology/computer-engineering)    
+C) [Software Engineering](../../technology/software-engineering)    
