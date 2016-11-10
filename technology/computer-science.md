@@ -1,3 +1,5 @@
+![Computer Science Picture](http://www.cdm.depaul.edu/academics/PublishingImages/heroMSCS.jpg)  
+
 Below, there is a link that can help you start looking into this career:  
 [Click me!](http://www.computerscienceonline.org/careers/)  
 
