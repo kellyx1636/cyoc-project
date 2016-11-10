@@ -3,4 +3,4 @@ Below, there is a link that can help you start looking into this career:
 
 I hope it helps! :)
 
-[Want to go back to the choices? Click here!](../introduction/first-question.md)
+[Want to go back to the choices? Click here!](../../introduction/first-question.md)
